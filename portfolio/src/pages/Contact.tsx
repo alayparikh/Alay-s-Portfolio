@@ -127,9 +127,6 @@ const Contact: React.FC = () => {
             </div>
 
             <div>
-              <div style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: 11, color: 'var(--text-muted)', marginBottom: 16 }}>
-                // social_links[]
-              </div>
               <div style={{ display: 'flex', gap: 12 }}>
                 {SOCIAL_LINKS.map(({ icon, href, label }) => (
                   <motion.a

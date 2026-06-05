@@ -218,9 +218,6 @@ const Hero: React.FC = () => {
               border: '1px solid rgba(0,212,255,0.12)',
             }}
           >
-            <div style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: 11, color: 'var(--text-muted)', letterSpacing: 2, marginBottom: 24 }}>
-              // career_metrics.json
-            </div>
             <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 24 }}>
               {STATS.map(({ value, suffix, label }) => (
                 <div key={label} style={{ textAlign: 'center' }}>
@@ -242,9 +239,6 @@ const Hero: React.FC = () => {
               ))}
             </div>
             <div style={{ marginTop: 28, paddingTop: 20, borderTop: '1px solid var(--border-glass)' }}>
-              <div style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: 11, color: 'var(--text-muted)', marginBottom: 12 }}>
-                tech_stack[]
-              </div>
               <div style={{ display: 'flex', flexWrap: 'wrap', gap: 6 }}>
                 {['Python', 'SQL', 'Spark', 'AWS', 'Tableau', 'Airflow'].map((tech) => (
                   <span key={tech} className="tag" style={{ fontSize: 10 }}>{tech}</span>

@@ -173,9 +173,6 @@ const Skills: React.FC = () => {
           animate={inView ? { opacity: 1, y: 0 } : {}}
           transition={{ delay: 0.6 }}
         >
-          <div style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: 11, color: 'var(--text-muted)', marginBottom: 20, letterSpacing: 2 }}>
-            // full_toolchain[]
-          </div>
           <div style={{ display: 'flex', flexWrap: 'wrap', gap: 10 }}>
             {TOOL_CHIPS.map((tool, i) => (
               <motion.span

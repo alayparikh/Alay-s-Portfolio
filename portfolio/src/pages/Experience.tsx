@@ -267,9 +267,6 @@ const Experience: React.FC = () => {
 
               <div style={{ marginTop: 32 }}>
                 <div className="glass-card" style={{ padding: '24px', border: '1px solid rgba(0,212,255,0.15)' }}>
-                  <div style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: 11, color: 'var(--text-muted)', marginBottom: 16 }}>
-                    // resume.pdf
-                  </div>
                   <p style={{ fontSize: 13, color: 'var(--text-secondary)', marginBottom: 20, lineHeight: 1.7 }}>
                     Download my full resume with detailed work history and accomplishments.
                   </p>

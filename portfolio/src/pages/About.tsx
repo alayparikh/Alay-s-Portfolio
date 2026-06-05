@@ -132,9 +132,6 @@ const About: React.FC = () => {
               background: 'radial-gradient(circle, rgba(0,212,255,0.08) 0%, transparent 70%)',
               borderRadius: '50%',
             }} />
-            <div style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: 11, color: 'var(--text-muted)', marginBottom: 20 }}>
-              // education.json
-            </div>
             {[
               {
                 degree: 'M.S. Computer Science',
@@ -155,9 +152,6 @@ const About: React.FC = () => {
                 <div style={{ fontSize: 13, color: 'var(--text-secondary)' }}>{school}</div>
               </div>
             ))}
-            <div style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: 11, color: 'var(--text-muted)', marginBottom: 12 }}>
-              // contact_info
-            </div>
             <div style={{ display: 'flex', flexDirection: 'column', gap: 8 }}>
               {[
                 { label: 'email', value: 'alayparikh98@gmail.com' },
