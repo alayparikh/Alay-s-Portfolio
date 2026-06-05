@@ -1,0 +1,428 @@
+- generic [ref=e2]:
+  - navigation [ref=e3]:
+    - generic [ref=e4]:
+      - link "AP." [ref=e5]:
+        - /url: "#home"
+      - list [ref=e6]:
+        - listitem [ref=e7]:
+          - link "Home" [ref=e8]:
+            - /url: "#home"
+            - text: Home
+        - listitem [ref=e10]:
+          - link "About" [ref=e11]:
+            - /url: "#about"
+        - listitem [ref=e12]:
+          - link "Skills" [ref=e13]:
+            - /url: "#skills"
+        - listitem [ref=e14]:
+          - link "Experience" [ref=e15]:
+            - /url: "#experience"
+        - listitem [ref=e16]:
+          - link "Projects" [ref=e17]:
+            - /url: "#projects"
+        - listitem [ref=e18]:
+          - link "Contact" [ref=e19]:
+            - /url: "#contact"
+      - link "Hire Me" [ref=e20]:
+        - /url: "#contact"
+  - main [ref=e21]:
+    - generic [ref=e23]:
+      - generic [ref=e24]:
+        - generic [ref=e25]:
+          - generic [ref=e28]: AVAILABLE FOR OPPORTUNITIES
+          - heading "Alay" [level=1] [ref=e29]
+          - heading "Parikh" [level=1] [ref=e30]
+          - generic [ref=e32]: Se
+          - paragraph [ref=e34]: Analytical engineer with 5 years turning complex data into business decisions. Building ETL pipelines, AI-driven dashboards, and actionable insights at scale using SQL, Python, Spark, and the full modern data stack.
+          - generic [ref=e35]:
+            - link "Get in Touch" [ref=e36]:
+              - /url: "#contact"
+              - img [ref=e37]
+              - text: Get in Touch
+            - link "View Projects" [ref=e40]:
+              - /url: "#projects"
+              - img [ref=e41]
+              - text: View Projects
+          - generic [ref=e43]:
+            - link "GitHub" [ref=e44]:
+              - /url: https://github.com/alayparikh
+              - img [ref=e45]
+            - link "LinkedIn" [ref=e47]:
+              - /url: https://linkedin.com/in/alayparikh
+              - img [ref=e48]
+            - link "Email" [ref=e50]:
+              - /url: mailto:alayparikh98@gmail.com
+              - img [ref=e51]
+        - generic [ref=e54]:
+          - generic [ref=e55]: // career_metrics.json
+          - generic [ref=e56]:
+            - generic [ref=e57]:
+              - generic [ref=e58]: 5+
+              - generic [ref=e59]: Years Experience
+            - generic [ref=e60]:
+              - generic [ref=e61]: 20+
+              - generic [ref=e62]: ETL Pipelines Built
+            - generic [ref=e63]:
+              - generic [ref=e64]: 13%
+              - generic [ref=e65]: Order Failure Reduction
+            - generic [ref=e66]:
+              - generic [ref=e67]: 120h
+              - generic [ref=e68]: Saved Per Quarter
+          - generic [ref=e69]:
+            - generic [ref=e70]: tech_stack[]
+            - generic [ref=e71]:
+              - generic [ref=e72]: Python
+              - generic [ref=e73]: SQL
+              - generic [ref=e74]: Spark
+              - generic [ref=e75]: AWS
+              - generic [ref=e76]: Tableau
+              - generic [ref=e77]: Airflow
+      - button "SCROLL" [ref=e78]:
+        - generic [ref=e79]: SCROLL
+        - img [ref=e81]
+    - generic [ref=e84]:
+      - generic [ref=e85]:
+        - generic [ref=e86]: About Me
+        - heading "Turning data into decisions" [level=2] [ref=e87]
+        - paragraph [ref=e88]: I'm an Analytical Engineer based in Atlanta, GA with 5 years of experience transforming raw data into strategic intelligence. From architecting ETL pipelines at AWS to building AI-driven analytics at Mythics — I bridge the gap between data engineering and business outcomes.
+        - generic [ref=e89]:
+          - generic [ref=e90]: Atlanta, GA
+          - generic [ref=e91]: Open to Remote
+          - generic [ref=e92]: 5 YOE
+          - generic [ref=e93]: MS Computer Science
+      - generic [ref=e94]:
+        - generic [ref=e95]:
+          - paragraph [ref=e96]:
+            - text: At
+            - strong [ref=e97]: Mythics
+            - text: ", I analyze order-to-cash data across 1,000+ locations, identify operational inefficiencies, and drive 13% reductions in order failures using SQL and Python-based anomaly detection. I maintain 10+ real-time Tableau dashboards enabling 9% faster stakeholder decisions."
+          - paragraph [ref=e98]:
+            - text: At
+            - strong [ref=e99]: Amazon Web Services
+            - text: ", I designed and deployed internal data pipeline monitoring systems supporting 8 cross-functional teams. I engineered automated data quality controls using Python, AWS Glue, and Lambda in CI/CD pipelines, reducing operational failures by 14%."
+          - paragraph [ref=e100]:
+            - text: I leverage
+            - strong [ref=e101]: generative AI tools
+            - text: including Claude Code and Codex to automate analytics workflows, accelerate root-cause investigations, and improve reporting efficiency by 11%.
+        - generic [ref=e102]:
+          - generic [ref=e104]: // education.json
+          - generic [ref=e105]:
+            - generic [ref=e106]: Graduate
+            - generic [ref=e107]: M.S. Computer Science
+            - generic [ref=e108]: University of Texas at Arlington
+          - generic [ref=e109]:
+            - generic [ref=e110]: Undergraduate
+            - generic [ref=e111]: B.E. Computer Engineering
+            - generic [ref=e112]: Gujarat Technological University
+          - generic [ref=e113]: // contact_info
+          - generic [ref=e114]:
+            - generic [ref=e115]:
+              - generic [ref=e116]: "email:"
+              - generic [ref=e117]: alayparikh98@gmail.com
+            - generic [ref=e118]:
+              - generic [ref=e119]: "phone:"
+              - generic [ref=e120]: +1 (408) 483-1223
+            - generic [ref=e121]:
+              - generic [ref=e122]: "location:"
+              - generic [ref=e123]: Atlanta, GA
+      - generic [ref=e124]:
+        - generic [ref=e125]:
+          - img [ref=e127]
+          - heading "Data Engineering" [level=3] [ref=e131]
+          - paragraph [ref=e132]: ETL pipelines, AWS Glue, Airflow, Databricks — processing millions of records daily.
+        - generic [ref=e133]:
+          - img [ref=e135]
+          - heading "Analytics & BI" [level=3] [ref=e136]
+          - paragraph [ref=e137]: Tableau & Power BI dashboards trusted by 8+ cross-functional teams for real-time decisions.
+        - generic [ref=e138]:
+          - img [ref=e140]
+          - heading "AI & ML" [level=3] [ref=e143]
+          - paragraph [ref=e144]: LLM fine-tuning (LoRA/PEFT), anomaly detection, generative AI workflow automation.
+        - generic [ref=e145]:
+          - img [ref=e147]
+          - heading "Product Analytics" [level=3] [ref=e150]
+          - paragraph [ref=e151]: A/B testing, funnel analysis, cohort studies — translating behavior into product decisions.
+        - generic [ref=e152]:
+          - img [ref=e154]
+          - heading "Cloud Platforms" [level=3] [ref=e158]
+          - paragraph [ref=e159]: AWS (Glue, Lambda, Redshift, S3) and Azure (Data Factory, Databricks) at enterprise scale.
+        - generic [ref=e160]:
+          - img [ref=e162]
+          - heading "CI/CD & DevOps" [level=3] [ref=e166]
+          - paragraph [ref=e167]: Automated data quality controls integrated into CI/CD pipelines, reducing failures by 14%.
+    - generic [ref=e169]:
+      - generic [ref=e170]:
+        - generic [ref=e171]: Technical Skills
+        - heading "Data Stack Proficiency" [level=2] [ref=e172]
+        - paragraph [ref=e173]: Full-spectrum expertise from raw ingestion to executive dashboards — built through 5 years of production systems at AWS, Mythics, and beyond.
+      - generic [ref=e174]:
+        - generic [ref=e175]:
+          - heading "Languages & Databases" [level=3] [ref=e177]
+          - generic [ref=e179]:
+            - generic [ref=e180]: SQL
+            - generic [ref=e181]: 97%
+          - generic [ref=e185]:
+            - generic [ref=e186]: Python
+            - generic [ref=e187]: 93%
+          - generic [ref=e191]:
+            - generic [ref=e192]: PySpark
+            - generic [ref=e193]: 85%
+          - generic [ref=e197]:
+            - generic [ref=e198]: R
+            - generic [ref=e199]: 75%
+        - generic [ref=e202]:
+          - heading "Cloud & Infrastructure" [level=3] [ref=e204]
+          - generic [ref=e206]:
+            - generic [ref=e207]: AWS (Glue, Lambda, Redshift)
+            - generic [ref=e208]: 90%
+          - generic [ref=e212]:
+            - generic [ref=e213]: Azure Data Factory
+            - generic [ref=e214]: 82%
+          - generic [ref=e218]:
+            - generic [ref=e219]: Databricks
+            - generic [ref=e220]: 85%
+          - generic [ref=e224]:
+            - generic [ref=e225]: Snowflake / BigQuery
+            - generic [ref=e226]: 80%
+        - generic [ref=e229]:
+          - heading "BI & Visualization" [level=3] [ref=e231]
+          - generic [ref=e233]:
+            - generic [ref=e234]: Tableau
+            - generic [ref=e235]: 95%
+          - generic [ref=e239]:
+            - generic [ref=e240]: Power BI
+            - generic [ref=e241]: 88%
+          - generic [ref=e245]:
+            - generic [ref=e246]: Recharts / D3.js
+            - generic [ref=e247]: 72%
+          - generic [ref=e251]:
+            - generic [ref=e252]: Advanced Excel
+            - generic [ref=e253]: 90%
+        - generic [ref=e256]:
+          - heading "ML & AI" [level=3] [ref=e258]
+          - generic [ref=e260]:
+            - generic [ref=e261]: LLM Fine-tuning (LoRA/PEFT)
+            - generic [ref=e262]: 78%
+          - generic [ref=e266]:
+            - generic [ref=e267]: TensorFlow / SVM
+            - generic [ref=e268]: 72%
+          - generic [ref=e272]:
+            - generic [ref=e273]: Pandas / Scikit-learn
+            - generic [ref=e274]: 88%
+          - generic [ref=e278]:
+            - generic [ref=e279]: Generative AI Integration
+            - generic [ref=e280]: 85%
+      - generic [ref=e283]:
+        - generic [ref=e284]: // full_toolchain[]
+        - generic [ref=e285]:
+          - generic [ref=e286]: Apache Airflow
+          - generic [ref=e287]: AWS Glue
+          - generic [ref=e288]: Azure Data Factory
+          - generic [ref=e289]: Databricks
+          - generic [ref=e290]: CI/CD Pipelines
+          - generic [ref=e291]: Docker
+          - generic [ref=e292]: Git
+          - generic [ref=e293]: Jupyter
+          - generic [ref=e294]: dbt
+          - generic [ref=e295]: Redshift
+          - generic [ref=e296]: BigQuery
+          - generic [ref=e297]: Snowflake
+          - generic [ref=e298]: Claude Code
+          - generic [ref=e299]: Codex
+          - generic [ref=e300]: Pandas
+          - generic [ref=e301]: NumPy
+          - generic [ref=e302]: A/B Testing
+          - generic [ref=e303]: Hypothesis Testing
+          - generic [ref=e304]: Statistical Analysis
+          - generic [ref=e305]: ETL Design
+    - generic [ref=e308]:
+      - generic [ref=e309]:
+        - generic [ref=e310]: Experience
+        - heading "Career Timeline" [level=2] [ref=e311]
+        - paragraph [ref=e312]: 5 years of progressive growth — from software engineering to leading data analytics at enterprise scale.
+      - generic [ref=e313]:
+        - generic [ref=e314]:
+          - generic [ref=e315]:
+            - img [ref=e316]
+            - generic [ref=e319]: WORK EXPERIENCE
+          - generic [ref=e323]:
+            - generic [ref=e324]:
+              - generic [ref=e325]:
+                - generic [ref=e326]: M
+                - generic [ref=e327]:
+                  - heading "Senior Data Analyst" [level=3] [ref=e328]
+                  - generic [ref=e329]:
+                    - generic [ref=e330]: Mythics
+                    - generic [ref=e331]: •
+                    - generic [ref=e332]: Atlanta, GA
+              - generic [ref=e333]:
+                - generic [ref=e334]: Mar 2024 – Present
+                - img [ref=e336]
+            - generic [ref=e339]:
+              - list [ref=e340]:
+                - listitem [ref=e341]:
+                  - generic [ref=e343]: Analyzed order-to-cash and fulfillment data across 1,000+ locations, reducing order failures by 13% via SQL & Python anomaly detection.
+                - listitem [ref=e344]:
+                  - generic [ref=e346]: Built and maintained 10+ real-time Tableau dashboards tracking fulfillment rates, transaction flow, and operational KPIs — enabling 9% faster stakeholder decisions.
+                - listitem [ref=e347]:
+                  - generic [ref=e349]: Developed automated monitoring and alerting workflows detecting supply and order disruptions, saving 120 hours per quarter.
+                - listitem [ref=e350]:
+                  - generic [ref=e352]: Designed and analyzed A/B tests to evaluate operational initiatives, improving fulfillment reliability by 6%.
+                - listitem [ref=e353]:
+                  - generic [ref=e355]: Leveraged Claude Code and Codex to automate analytics workflows and improve reporting efficiency by 11%.
+                - listitem [ref=e356]:
+                  - generic [ref=e358]: "Led experimentation initiatives: defining success metrics, analyzing statistical significance, and translating results into actionable product recommendations."
+              - generic [ref=e359]:
+                - generic [ref=e360]: SQL
+                - generic [ref=e361]: Python
+                - generic [ref=e362]: Tableau
+                - generic [ref=e363]: A/B Testing
+                - generic [ref=e364]: Anomaly Detection
+                - generic [ref=e365]: Claude Code
+          - generic [ref=e370]:
+            - generic [ref=e371]:
+              - generic [ref=e372]: A
+              - generic [ref=e373]:
+                - heading "Software Development Engineer (Data)" [level=3] [ref=e374]
+                - generic [ref=e375]:
+                  - generic [ref=e376]: Amazon Web Services
+                  - generic [ref=e377]: •
+                  - generic [ref=e378]: Atlanta, GA
+            - generic [ref=e379]:
+              - generic [ref=e380]: Sep 2022 – Mar 2024
+              - img [ref=e382]
+          - generic [ref=e388]:
+            - generic [ref=e389]:
+              - generic [ref=e390]: I
+              - generic [ref=e391]:
+                - heading "Systems Engineer" [level=3] [ref=e392]
+                - generic [ref=e393]:
+                  - generic [ref=e394]: Infosys Limited
+                  - generic [ref=e395]: •
+                  - generic [ref=e396]: Remote
+            - generic [ref=e397]:
+              - generic [ref=e398]: Jan 2022 – Sep 2022
+              - img [ref=e400]
+          - generic [ref=e406]:
+            - generic [ref=e407]:
+              - generic [ref=e408]: T
+              - generic [ref=e409]:
+                - heading "Software Engineer" [level=3] [ref=e410]
+                - generic [ref=e411]:
+                  - generic [ref=e412]: Terminal Trend
+                  - generic [ref=e413]: •
+                  - generic [ref=e414]: Ahmedabad, India
+            - generic [ref=e415]:
+              - generic [ref=e416]: Jan 2019 – Dec 2019
+              - img [ref=e418]
+        - generic [ref=e421]:
+          - generic [ref=e422]:
+            - img [ref=e423]
+            - generic [ref=e426]: EDUCATION
+          - generic [ref=e427]:
+            - generic [ref=e428]: Graduate
+            - generic [ref=e429]: M.S. Computer Science
+            - generic [ref=e430]: University of Texas at Arlington
+          - generic [ref=e431]:
+            - generic [ref=e432]: Undergraduate
+            - generic [ref=e433]: B.E. Computer Engineering
+            - generic [ref=e434]: Gujarat Technological University
+          - generic [ref=e436]:
+            - generic [ref=e437]: // resume.pdf
+            - paragraph [ref=e438]: Download my full resume with detailed work history and accomplishments.
+            - link "Download Resume" [ref=e439]:
+              - /url: /Alay_Parikh_Sr_DataAnalyst.pdf
+              - img [ref=e440]
+              - text: Download Resume
+    - generic [ref=e446]:
+      - generic [ref=e447]:
+        - generic [ref=e448]:
+          - generic [ref=e449]: Projects
+          - heading "GitHub Portfolio" [level=2] [ref=e450]
+          - paragraph [ref=e451]: Live from my GitHub — data pipelines, analytics tools, and ML experiments.
+        - generic [ref=e452]:
+          - link "View All on GitHub" [ref=e453]:
+            - /url: https://github.com/alayparikh?tab=repositories
+            - img [ref=e454]
+            - text: View All on GitHub
+          - button [ref=e456]:
+            - img [ref=e457]
+      - link "Explore All Repositories on GitHub" [ref=e470]:
+        - /url: https://github.com/alayparikh?tab=repositories
+        - img [ref=e471]
+        - text: Explore All Repositories on GitHub
+    - generic [ref=e475]:
+      - generic [ref=e476]:
+        - generic [ref=e477]: Contact
+        - heading "Let's Work Together" [level=2] [ref=e478]
+        - paragraph [ref=e479]: Whether you have a data challenge, want to discuss analytics strategy, or just say hello — my inbox is always open.
+      - generic [ref=e480]:
+        - generic [ref=e481]:
+          - generic [ref=e482]:
+            - heading "Available for new opportunities" [level=3] [ref=e483]
+            - paragraph [ref=e484]: I'm currently open to senior data analyst, analytics engineering, and data science roles. I bring deep expertise in Python, SQL, cloud platforms, and turning ambiguous data into clear decisions.
+          - generic [ref=e485]:
+            - generic [ref=e486]:
+              - img [ref=e488]
+              - generic [ref=e491]:
+                - generic [ref=e492]: Email
+                - link "alayparikh98@gmail.com" [ref=e493]:
+                  - /url: mailto:alayparikh98@gmail.com
+            - generic [ref=e494]:
+              - img [ref=e496]
+              - generic [ref=e498]:
+                - generic [ref=e499]: Phone
+                - link "+1 (408) 483-1223" [ref=e500]:
+                  - /url: tel:+14084831223
+            - generic [ref=e501]:
+              - img [ref=e503]
+              - generic [ref=e506]:
+                - generic [ref=e507]: Location
+                - text: Atlanta, GA
+          - generic [ref=e508]:
+            - generic [ref=e509]: // social_links[]
+            - generic [ref=e510]:
+              - link "GitHub" [ref=e511]:
+                - /url: https://github.com/alayparikh
+                - img [ref=e512]
+              - link "LinkedIn" [ref=e514]:
+                - /url: https://linkedin.com/in/alayparikh
+                - img [ref=e515]
+              - link "Email" [ref=e517]:
+                - /url: mailto:alayparikh98@gmail.com
+                - img [ref=e518]
+        - generic [ref=e522]:
+          - generic [ref=e523]:
+            - generic [ref=e524]:
+              - generic [ref=e525]: Name
+              - textbox "Your name" [ref=e526]
+            - generic [ref=e527]:
+              - generic [ref=e528]: Email
+              - textbox "your@email.com" [ref=e529]
+          - generic [ref=e530]:
+            - generic [ref=e531]: Subject
+            - textbox "What's this about?" [ref=e532]
+          - generic [ref=e533]:
+            - generic [ref=e534]: Message
+            - textbox "Tell me about your project or opportunity..." [ref=e535]
+          - button "Send Message" [ref=e536]:
+            - img [ref=e537]
+            - text: Send Message
+  - contentinfo [ref=e540]:
+    - generic [ref=e541]:
+      - generic [ref=e542]:
+        - generic [ref=e543]: AP.
+        - generic [ref=e544]: Alay Parikh — Senior Data Analyst, Atlanta GA
+      - generic [ref=e545]:
+        - link "GitHub" [ref=e546]:
+          - /url: https://github.com/alayparikh
+          - img [ref=e547]
+        - link "LinkedIn" [ref=e549]:
+          - /url: https://linkedin.com/in/alayparikh
+          - img [ref=e550]
+        - link "Email" [ref=e552]:
+          - /url: mailto:alayparikh98@gmail.com
+          - img [ref=e553]
+        - button "Back to top" [ref=e556]:
+          - img [ref=e557]
+    - paragraph [ref=e560]: Built with React, Framer Motion & TypeScript · 2026
