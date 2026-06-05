@@ -72,9 +72,22 @@ const FALLBACK_PROJECTS = [
   },
 ];
 
+const PROJECT_DESCRIPTIONS: Record<string, string> = {
+  'Alay-s-Portfolio': 'I built this personal portfolio to showcase my resume, technical skills, projects, and professional experience in one polished website.',
+  websiteBuilder: 'I am building this side project to help small businesses create clean, practical websites that present their services clearly and professionally.',
+  iHealthCiCdBase: 'I use this project to learn and practice CI/CD workflows, deployment automation, and release pipelines for healthcare-style applications.',
+  CiCdPipeline: 'I built this hands-on Python project to strengthen my understanding of CI/CD fundamentals, including automated checks, builds, and deployment flow.',
+  'supply-chain-dashboard': 'I created this dashboard project to explore supply chain data, track operational metrics, and turn logistics information into readable insights.',
+  'career-ops': 'I built this career management tool to organize applications, track opportunities, and bring more structure to the job search process.',
+  HotelBookingApp: 'I built this hotel booking app to practice full-stack structure, reservation workflows, and user-facing booking experiences.',
+};
+
+const getRepoDescription = (repo: Repo) => PROJECT_DESCRIPTIONS[repo.name] || repo.description || 'No description provided.';
+
 const RepoCard: React.FC<{ repo: Repo; index: number; inView: boolean }> = ({ repo, index, inView }) => {
   const langColor = repo.language ? LANG_COLORS[repo.language] || '#8b949e' : '#8b949e';
   const updatedDate = new Date(repo.updated_at).toLocaleDateString('en-US', { month: 'short', year: 'numeric' });
+  const description = getRepoDescription(repo);
 
   return (
     <motion.div
@@ -153,7 +166,7 @@ const RepoCard: React.FC<{ repo: Repo; index: number; inView: boolean }> = ({ re
         flex: 1,
         marginBottom: 16,
       }}>
-        {repo.description || 'No description provided.'}
+        {description}
       </p>
 
       {repo.topics && repo.topics.length > 0 && (
