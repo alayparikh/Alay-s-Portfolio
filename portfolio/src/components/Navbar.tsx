@@ -128,7 +128,7 @@ const Navbar: React.FC = () => {
             whileHover={{ scale: 1.05 }}
             style={{ padding: '10px 24px', fontSize: 13 }}
           >
-            Hire Me
+            Hire Me?
           </motion.a>
 
           {/* Mobile hamburger */}
